@@ -1,6 +1,6 @@
 ![alternative_textuelle_image](dev.avif)
 
-# Kevin niclot
+# Kevin Niclot
 
 *Développeur web junior, en formation "Développement web et accessibilité"*
 
