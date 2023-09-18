@@ -4,7 +4,7 @@
 
 *Développeur web ju,ior, en formation "développement web et accessibilité"*
 
-[Acceuil](README.md) - [Projets](projets.md) - [CV]() - [Contact]()
+[Acceuil](README.md) - [Projets](projets.md) - [CV](CV.md) - [Contact](contact.md)
 
 ## Mes projets 
 
